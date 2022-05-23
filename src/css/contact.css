@@ -1,0 +1,20 @@
+#contact{
+    height: 100vh;
+    padding: 10px;
+    text-align: center;
+}
+
+.contact-container{
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    height: 30vh;
+    grid-template-columns: auto auto auto auto;
+    align-items: center;
+    width: 60%;
+}
+
+.contact-container img{
+    width: 70px;
+}

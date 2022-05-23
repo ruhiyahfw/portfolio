@@ -1,0 +1,29 @@
+
+#greeting{
+    margin: 20px;
+    height: 100vh;
+}
+
+.grid-2-container{
+    display: grid;
+    height: 90vh;
+    grid-template-columns: 40% 60%;
+    align-items: center;
+}
+  
+#profpic{
+    width: 70%;
+    margin-top: 50px;
+}
+
+.left-grid-item{
+    text-align: center;
+}
+
+.color1{
+    color:#C996CC ;
+}
+
+.ket{
+    font-size: x-small;
+}
